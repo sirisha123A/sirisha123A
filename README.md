@@ -8,7 +8,7 @@
   
 - 💻 All of my projects are available on [GitHub](https://github.com/sirisha123A)
 
-- 💬 Ask me about **Programming **
+- 💬 Ask me about Programming.
 
 - 📫 Reach out to me at **sirisrinivas478@gmail.com**
 <br>
